@@ -38,5 +38,4 @@
 ### 📫 Get in touch
 
 [![Website](https://img.shields.io/badge/schwabstudio.com.br-000000?style=flat&logo=googlechrome&logoColor=white)](https://schwabstudio.com.br)
-<!-- Troque SEU-USUARIO pelo seu usuário do LinkedIn -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octavio-schwab)
