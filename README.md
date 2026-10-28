@@ -1,6 +1,6 @@
 # Hi, I'm Octavio 👋
 
-**Full-stack developer & IT Management student** — building web and mobile products, from multi-tenant SaaS to React Native apps.
+**React & React Native developer & IT Management student** — building mobile and web apps with TypeScript and Supabase.
 
 - 🎓 IT Management (GTI) at **Fatec Campinas**, Brazil — currently on exchange at **UPCA**, Barcelos, Portugal 🇧🇷 → 🇵🇹
 - 🛠️ Founder of **[Schwab Studio](https://schwabstudio.com.br)**, a freelance web development & design studio
@@ -13,8 +13,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[GUVIO App](https://github.com/whoistavs/guvio-app)** · [Live demo](https://wondrous-cocada-999321.netlify.app) | Social fashion app with an interactive 3D globe, real-time feed, stories and DMs. Tested with Jest + CI. | React Native · TypeScript · Supabase · Three.js |
 | **[EI Flow](https://ei.devfatec-campinas.com.br)** | Multi-tenant SaaS ERP for visual communication businesses (print shops): Kanban production workflow through to invoicing, with a built-in AI assistant. I lead a team of 6. | PHP · MySQL · JavaScript · Gemini API |
-| **[GUVIO App](https://github.com/whoistavs/guvio-app)** | Open-source mobile app with real-time sync and 3D components, focused on mobile UX. | React Native · TypeScript · Supabase |
 | **[FuelBridge PT-BR](https://github.com/whoistavs/fuelbridge-pt-br)** | ETL pipeline comparing fuel prices between Portugal and Brazil, converted to EUR with ECB exchange rates. | Pentaho Data Integration · ETL |
 
 ---
